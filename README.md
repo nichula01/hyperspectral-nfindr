@@ -56,9 +56,10 @@ This project focuses on implementing the **N-FINDR algorithm**, a classical geom
 
 | Endmembers | Abundance Maps |
 |------------|----------------|
-| ![endmembers](endmembers.png) | ![abundances](abundance_maps.png) |
+| ![endmembers](endmembers.png) 
+|[abundances](abundance_maps.png) |
 
-*(Add sample images after running your code and saving visualizations to the `results/` folder.)*
+
 
 ---
 
